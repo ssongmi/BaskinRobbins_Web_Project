@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+body{
+    background-color: #fefafd;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.left{
+    position: relative;
+}
+.box{
+    position: absolute;
+    top:50%; left: 50%;
+    transform: translate(-50%, -50%);
+}
+.box > img{
+    width:100%;
+}
+.form-group > input{
+    height:50px;
+    border: 1px solid #e01783;
+}
+.btn{
+    background-color: #e01783;
+    color:white;
+    max-width: 49%;
+    border:1px solid #e01783;
+}
+.btn:hover{
+    background-color: white;
+    color:#e01783;
+}
+.btn:first-child{
+    margin-right:2%;
+}
+.btn:last-child{
+    margin-left:2%;
+}
+#demo{
+    max-width:800px;
+}
+#wrap{
+    margin-top:90px;
+}
+#login > a{
+    width:100%;
+    height:100%;
+    display: block;
+}
