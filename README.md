@@ -1,4 +1,26 @@
-:computer: 배스킨 라빈스의 아이스크림 소개 웹페이지를 제작해본 프로젝트입니다.<br>
-:pencil2: HTML / CSS / JS / jQuery / BootStrap을 사용했습니다.<br>
-:key: 로컬스토리지를 활용하여 로그인 및 회원가입 기능을 간단히 구현했습니다.<br>
-<a href="https://ssongmi.github.io/BaskinRobbins_Web_Project/">바로가기</a>
+<h2>배스킨라빈스 31 아이스크림 소개 프로젝트</h2>
+
+<p>배스킨라비스31 아이스크림을 소개하기 위해 제작한 웹페이지</p>
+<br>
+
+<h3>:pushpin: 추진 일정</3>
+<hr>
+<p>2021.03.05 ~ 2021.03.05</p>
+<br>
+
+<h3>:pushpin: 개요</3>
+<hr>
+<p>배스킨라빈스31 아이스크림을 소개하는 웹페이지</p>
+<br>
+
+<h3>:pushpin: 기술 스택</3>
+<hr>
+<p>Vue / SpringBoot</p>
+<br>
+
+<h3>:pushpin: 개발 내용</3>
+<hr>
+<p>Bootstrap을 활용한 사용자 UI </p>
+<p>jQuery를 통해 사용자 동작에 반응하는 애니메이션</p>
+<p>LocalStorage를 이용한 로그인 기능</p>
+<br>
