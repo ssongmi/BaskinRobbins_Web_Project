@@ -15,7 +15,7 @@
 
 <h3>:pushpin: 기술 스택</3>
 <hr>
-<p>Vue / SpringBoot</p>
+<p>HTML, CSS, JavaScript, jQuery, Bootstrap</p>
 <br>
 
 <h3>:pushpin: 개발 내용</3>
